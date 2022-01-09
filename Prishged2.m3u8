@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://hls.luziedu.com/livestream/ch5/playlist.m3u8?t=1641754626&a=114.10.22.232&u=9f34df3192fb7e479c0ed6df0ea8ccdd&k=6a9874f4870a97446d95dfe132e7ac02
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/gfIqGeboh8ohJeZWGnHS0ZoasNpekKJ-0x3HjxR3Lp0QRsS22K0_jQZSI9CB5hNuuCpUcUS0gVE5X2ipvWYlTQ/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 link

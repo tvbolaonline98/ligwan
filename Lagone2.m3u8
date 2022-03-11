@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://video.zettao.com/org/45060211/playlist.m3u8?time=1646606347&auth_token=4872a9bc8588bbbdec3f1c9bdae029e4&wsSession=6d72eb755f19944b0ecdf481-164659554787966&wsIPSercert=70f5a585a67ce138191b750bccfbd6a9&wsMonitor=0
+http://play.bear0625.cn/tianxiatv/stream-26692c3192df421b942338be9e4910df.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://play.bear0625.cn/tianxiatv/stream-aa8c4b94505141738625e0b2fe477a8a.m3u8
+ll

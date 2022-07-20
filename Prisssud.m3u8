@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://video2.kgkco.com/org/54178782/playlist.m3u8?time=1658322185&auth_token=77f8b19873353585aa13ee5ee731d126&wsSession=ce71c8ba811d77ab0ad9aaca-165831138855169&wsIPSercert=2311c05dadade6acf5d1930d05d6aa10&wsMonitor=0
+https://video2.kgkco.com/org/54178782/playlist.m3u8?time=1658323606&auth_token=5fbade424d879ddf769ce376b6cc0c92&wsSession=ce71c8ba811d77ab0ad9aaca-165831281243801&wsIPSercert=2311c05dadade6acf5d1930d05d6aa10&wsMonitor=0
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://video2.kgkco.com/org/54178782/playlist.m3u8?time=1658322206&auth_token=eea231ece475e71c9da10462f3c9c5e3&wsSession=ce71c8ba811d77ab0ad9aaca-165831141544676&wsIPSercert=2311c05dadade6acf5d1930d05d6aa10&wsMonitor=0

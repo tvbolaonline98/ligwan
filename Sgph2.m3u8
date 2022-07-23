@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://livehls.ltjuq.top/ofmatch/6506110.m3u8?auth_key=1658571296-76546137828da24572d431bd445fbc2f-0-8f14de4dfc53eaf8c435e442aac57ba8
+https://bf.mzbox.net/live/sd-1-3779847.m3u8?txSecret=516d7e83f2fadd70fe3e2ef42d91f00f&txTime=62dbc76f
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://video2.kgkco.com/org/54292813/playlist.m3u8?time=1658581769&auth_token=920beae2d8f34ceb714cd0df83e45f10&wsSession=ce71c8ba811d77ab0ad9aaca-165857098525176&wsIPSercert=10c0e94a70c2b02e306b276c19a3de24&wsMonitor=0

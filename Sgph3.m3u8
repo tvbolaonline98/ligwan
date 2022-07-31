@@ -4,4 +4,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 l
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://179720687.global.cdnfastest.com/live/may4/chunklist.m3u8
+https://bcvbcvb-brso.streaming.media.azure.net/a1d8988c-ebc9-4652-81bc-cc7adfd37f97/output-20220731-162438-manifest.ism/QualityLevels(1800000)/Manifest(video,format=m3u8-cmaf)

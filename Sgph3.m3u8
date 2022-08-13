@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://tv1.calcio02.pw/live/psg.m3u8
+https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/5gGlFWeLR_ahK6GkKRSUgccnoTKVpJmowQjNjJMEYD19HhsE_sVy8rmMgUkNXWeLVP38Tc8JuVm33MgQ-bfe2w/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://179720687.global.cdnfastest.com/live/may9/chunklist.m3u8
+https://tv1.calcio02.pw/live/psg.m3u8

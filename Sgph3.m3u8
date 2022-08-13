@@ -4,4 +4,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/5gGlFWeLR_ahK6GkKRSUgccnoTKVpJmowQjNjJMEYD19HhsE_sVy8rmMgUkNXWeLVP38Tc8JuVm33MgQ-bfe2w/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://tv1.calcio02.pw/live/psg.m3u8
+https://pull.zygmsg.com/armenia/383730937.m3u8?auth_key=1660433100-0-0-a91a101791c111939c1971db3049c0bd

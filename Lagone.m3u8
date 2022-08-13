@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://craff23.s.llnwi.net/live/streamhd55102.m3u8?Expires=1659932400&Signature=IQBanRzGGvg0wuDTvKsWJLMJcohqXxPnD39hHlaeitaJwaMUQRvZH5LD~R6oqxMXf6chae7re7eBBjZ1pONguS1dlEtlhFnFFgdjx1OFCLiG3zjNtn-BUDIFF50ikKAbgq0BRqVGwCkXK0UyI0GL-QaHy9YfKtUKrKxLZWuxPF5yvHDzIbr-BXslxNgUM8mrgzRrkxrvQsaCBYtJVcsuAyrT01duzLl55yGXqrUiRPddnxREHvkyjDl1sCIY6pyfYj6yFB4G9ZweEAqdC8N2wTxyF06FCQhynnXPwAiiGSYajeHqdUYxFXM1iAwKgxuhZTvvbO9ISjnoCi7nUOkf3g__&Key-Pair-Id=K1SXOWNSQGJT65
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/qzSqD9EcHLSPFWglxII4NAMR2l8XCqbD_rjH941KIV4mEYHwuzBfEk7JQA2gEdFQRQ8xoGtRLLwfwlyEZ6uFGw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tm_dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://pull.zygmsg.com/armenia/320895971.m3u8?auth_key=1659913260-0-0-39a0513a4538842cab87eeaf456d26ae

@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://dcvvv-usea.streaming.media.azure.net/56a2e1a3-827e-4a93-a4ba-4e3704da656c/output-20220828-143213-manifest.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)
+https://pull.xingliju.com/leisu/1117785175414137.m3u8?auth_key=1661728590-0-0-144e273466ee550f0f3b6ae96d6c0e2e
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://tv1.calcio02.pw/live/psg.m3u8

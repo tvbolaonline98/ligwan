@@ -1,6 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:5
+#EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://dcvvv-usea.streaming.media.azure.net/56a2e1a3-827e-4a93-a4ba-4e3704da656c/output-20220828-143213-manifest.ism/QualityLevels(2200000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)
+https://lshstream.xyz/hls/allsportsicu07/index.m3u8?Pericopalotes135
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://ungulata.boxcast.com/kiang/ihgamsnty9egldm5hfll/480p-ext.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly91bmd1bGF0YS5ib3hjYXN0LmNvbS9raWFuZy9paGdhbXNudHk5ZWdsZG01aGZsbC80ODBwLWV4dC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjYxODI2Mzk2fX19XX0_&Signature=mIl9jt-H3v9RTlJrSSB11MTHaHm00AxebSlRLATBVfnDJ8H~qd~hkKIGay3PzvFbvJ97lFlYsvuAyvGtkv7lj4HQgkMZMwcj9jfqQAIazftYmm0y3zfDU9cr6KVS5HaWqHUztJ3PsSGNSAh11KVoCm5ArEyuyUQujvmnXxut58XNKj2U2Fvr7UoepFM3xsdLNbIWl5U~vWGs9sOBCu0HHlcFWzdxpTBzQPiQrX~8V-98oEpqHLwyDRK2Pw-NRWiOaDMVa~pR3mjI-lLYeUrOfnHC5E7ew2pgoYhXhXJV2SC9a8g1cD88BMN3zSWjtx0nw6zX6YzUuJPveR7h27ih3Q__&Key-Pair-Id=APKAJ7GUCBQUK6NTWZCA
+l

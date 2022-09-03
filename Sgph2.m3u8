@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://video2.kgkco.com/org/56597423/playlist.m3u8?time=1662242103&auth_token=615605bcc9a6bcfa4071a9017f7925b6&wsSession=dd100ae8f805a7f0e4df01b4-166223130926170&wsIPSercert=5d0287ad4b48844d769e0cd842ac447c&wsMonitor=0
+https://streamcdneu.loco.gg/COUEI82JFB_c19ce74e-9cc3-4b1d-be75-aed35636848c/COUEI82JFB_c19ce74e-9cc3-4b1d-be75-aed35636848c_hi/manifest.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://pull.zygmsg.com/armenia/585881622.m3u8?auth_key=1662247133-0-0-c8d9ac7ad842d1f0da450e93eefafbec

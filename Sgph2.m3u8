@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://vkvsd8.mycdn.me/hls/3025312156399.m3u8/sig/dzKzVp_3o8Y/expires/1663268842570/srcIp/114.10.16.129/clientType/13/srcAg/CHROME_ANDROID/mid/4321598319599/3025312156399_medium/index.m3u8?p
+https://live-ak.vimeocdn.com/exp=1663185015~acl=%2F3ff326a0-dc49-4b8b-ad3a-a2ae9d50bdc8%2F%2A~hmac=239d5d8e626f2511026317d7ccae988ed28b7ea6bedb65583d2d861f927b6388/3ff326a0-dc49-4b8b-ad3a-a2ae9d50bdc8/chunklist_b416000.m3u8?max_segments=10
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8
